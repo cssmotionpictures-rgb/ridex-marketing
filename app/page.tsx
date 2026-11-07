@@ -30,7 +30,7 @@ export default function Home() {
 
         <div className="pt-10">
           <Link 
-            href="https://ridex-crixcoin.com" 
+            href="https://app.ridex-crixcoin.com" 
             className="inline-block bg-yellow-500 text-black px-10 py-4 rounded-full font-bold text-lg hover:bg-yellow-400 transition-colors"
           >
             Launch App
